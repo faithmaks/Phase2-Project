@@ -1,6 +1,6 @@
 # Phase2-Project
 Linear Regression modelling on housing data
-## Project Phase2 DSC
+### Project Phase2 DSC
 
 ## Overview
 
